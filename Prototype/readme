@@ -1,0 +1,9 @@
+run on terminal
+
+./main
+
+or
+
+g++ -std=c++11 main.cpp Wave.cpp -o main
+
+./main
